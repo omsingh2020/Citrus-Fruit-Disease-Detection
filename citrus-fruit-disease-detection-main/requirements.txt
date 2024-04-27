@@ -1,0 +1,9 @@
+englisttohindi==4.1.0
+keras==2.12.0
+numpy==1.23.5
+pandas==2.2.1
+pillow==10.3.0
+streamlit==1.32.2
+streamlit-option-menu==0.3.12
+tensorflow==2.12.0
+tensorflow-estimator==2.12.0
